@@ -1,0 +1,19 @@
+.button{
+    background-color: rgb(138, 180, 93);border-radius: 8px;width: 80px;margin-bottom:8px ;
+}
+
+
+@media (max-width: 585px){
+    .year-btn{
+        width:200px;
+    }
+   }
+   
+
+
+   @media (min-width: 320px) and ( max-width:425px){
+    .year-btn{
+        width:150px;
+    }
+   }
+   

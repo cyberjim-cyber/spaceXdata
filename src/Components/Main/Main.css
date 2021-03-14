@@ -1,0 +1,9 @@
+.sidebar{
+    margin:50px 50px;border: 1px solid grey;
+}
+
+@media (min-width: 768px){
+ .sidebar{
+     width:200px;
+ }
+}
